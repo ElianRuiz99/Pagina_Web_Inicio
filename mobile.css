@@ -17,4 +17,8 @@
         height: auto;
         margin-bottom: 100px;
     }
+
+    footer h3{
+        font-size: 15px;
+    }
 }
