@@ -114,3 +114,15 @@ nav li a:hover{
     text-align: center;
 }
 /*------------one section*/
+/*------------fooder*/
+footer{
+    background-color: var(--green-color);
+    height: 35px;
+}
+
+footer h3{
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+}
+/*------------fooder*/
