@@ -1,0 +1,106 @@
+section{
+    --col-width: 8.3333%;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.casillas{
+    display: flex;
+}
+
+.pago_ventana{
+    background-color: #f3f3f3;
+    box-shadow: 0px 0 2px 1px;
+    padding: 15px;
+}
+
+.col-1 {
+    width: calc( var(--col-width ) * 1);
+  }
+
+.col-2 {
+    width: calc(var(--col-width) * 2);
+}
+
+.col-3 {
+    width: calc(var(--col-width )  * 3);
+}
+
+.col-4 {
+    width: calc(var(--col-width ) * 4);
+}
+
+.col-5 {
+    width: calc(var(--col-width ) * 5);
+    margin-left: 50px;
+}
+
+.col-6 {
+    width: calc(var(--col-width ) * 6);
+}
+
+.col-7 {
+    width: calc(var(--col-width ) * 7);
+}
+
+.col-8 {
+    width: calc(var(--col-width ) * 8);
+}
+
+.col-9 {
+    width: calc(var(--col-width )  * 9);
+}
+
+.col-10 {
+    width: calc(var(--col-width ) * 10);
+}
+
+.col-11 {
+    width: calc(var(--col-width ) * 11);
+}
+
+.col-12 {
+    width: calc(var(--col-width ) * 12);
+}
+
+.imagen_pago{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+    padding: 15px;
+}
+
+label{
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+
+.data{
+    margin-top: 10px;
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid;
+    box-sizing: border-box;
+}
+
+.button{
+    background-color: #5da21b;
+    color: #f3f3f3;
+    font-size: 15px;
+    border: 1px solid black;
+    width: 50%;
+    margin-top: 10px;
+    height: 30px;
+}
+
+.section_button{
+    text-align: center;
+}
